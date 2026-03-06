@@ -9,7 +9,6 @@ This repository contains a C++ application designed to manage events and activit
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation 🛠️
 
